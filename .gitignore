@@ -1,3 +1,6 @@
+win32/
+win64/
+
 # Prerequisites
 *.d
 
