@@ -34,3 +34,5 @@
 src/.vs/
 src/win32/
 src/win64/
+src/tmp/
+*.pdb
