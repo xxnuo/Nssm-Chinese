@@ -1,0 +1,27 @@
+﻿D:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(39,5): warning MSB4211: 正在首次将属性“IntermediateOutputPath”设置为某个值，但已在“D:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets (38,5)”处使用了该属性。
+D:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.BuildSteps.Targets(30,5): warning MSB4211: 正在首次将属性“DebugType”设置为某个值，但已在“D:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.BuildSteps.Targets (29,5)”处使用了该属性。
+D:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets(373,5): warning MSB4211: 正在首次将属性“CleanFile”设置为某个值，但已在“D:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets (38,5)”处使用了该属性。
+  Setting version information
+  fatal: not a git repository (or any of the parent directories): .git
+  移动了         1 个文件。
+  Compiling messages
+  MC: Compiling messages.mc
+  account.cpp
+  console.cpp
+  env.cpp
+  event.cpp
+  gui.cpp
+  hook.cpp
+  imports.cpp
+  io.cpp
+  nssm.cpp
+  process.cpp
+  registry.cpp
+  service.cpp
+  settings.cpp
+D:\App\nssm\src\settings.cpp(141,45): warning C4311: “类型强制转换”: 从“void *”到“unsigned long”的指针截断
+D:\App\nssm\src\settings.cpp(141,45): warning C4302: “类型强制转换”: 从“void *”到“unsigned long”截断
+D:\App\nssm\src\settings.cpp(1396,66): warning C4312: “类型强制转换”: 从“unsigned long”转换到更大的“void *”
+  utf8.cpp
+  正在生成代码...
+  nssm.vcxproj -> D:\App\nssm\src\out\Release\win64\nssm.exe

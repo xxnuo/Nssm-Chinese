@@ -1,0 +1,2 @@
+^D:\APP\NSSM\SRC\MESSAGES.MC
+mc -u -U messages.mc -r . -h .
